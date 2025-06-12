@@ -18,7 +18,7 @@ This task involves connecting a Python script to a local SQLite database to perf
 - Visualized the revenue per product using a bar chart
 
 ## 📁 Files Included
-- task7_sales_summary.ipynb
+- task7_sales_summary.py
 - sales_data.db
 - sales_chart.png
 - README.md
